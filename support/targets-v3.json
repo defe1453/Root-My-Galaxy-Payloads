@@ -55,11 +55,11 @@
       "kernelVersions": ["6.1.162"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/defe1453/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928BXXU6ZZI4/cve-2026-43499-app.so",
-        "size": 125904
+        "size": 104128
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/defe1453/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S928BXXU6ZZI4-kdp",
-        "size": 6407096
+        "size": 4748456
       }
     },
     {
